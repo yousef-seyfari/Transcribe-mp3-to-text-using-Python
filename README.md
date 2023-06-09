@@ -9,3 +9,5 @@ Steps:
   3. Split single wave file to multiple small wave files
   4. Get the list of small wave files
   5. Transcribe each small wave file
+
+see details and codes in [https://github.com/yousef-seyfari/Transcribe-mp3-to-text-using-Python/blob/main/transcribe_mp3_to_text.ipynb]
